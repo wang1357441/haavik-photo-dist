@@ -1,7 +1,7 @@
 {
-  "notes": "1.7.8：更新更稳 —— 多源自动切换（Gitee/GitHub/加速站）+ 换源前测速挑最快的 + 断了能接着下 + 进度显示速度与剩余时间",
-  "sha256": "68ce4be2cc98da268c38069d45bc15a93b98efecb50978417e7d7090e6b3a465",
-  "size": 69093064,
-  "url": "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.7.8/Setup.exe",
-  "version": "1.7.8"
+  "notes": "1.7.9：AI 菜单里加了「用一句话改图」（说「调亮一点」「把背景去掉」，零模型即可用）＋ AI 做错了可以一键退回去",
+  "sha256": "f266917badaa2e52174d235277320da83ba9c7f85d69a4cab4d8eadfc2272541",
+  "size": 69113880,
+  "url": "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.7.9/Setup.exe",
+  "version": "1.7.9"
 }
