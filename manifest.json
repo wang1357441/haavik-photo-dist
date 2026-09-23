@@ -1,7 +1,23 @@
 {
-  "notes": "1.7.9：AI 菜单里加了「用一句话改图」（说「调亮一点」「把背景去掉」，零模型即可用）＋ AI 做错了可以一键退回去",
-  "sha256": "f266917badaa2e52174d235277320da83ba9c7f85d69a4cab4d8eadfc2272541",
-  "size": 69113880,
-  "url": "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.7.9/Setup.exe",
-  "version": "1.7.9"
+  "ai": {
+    "min_os": "win10",
+    "sha256": "7f53a7ffc2a8907a0975ad7628b9021e796187f18233219008196f1af27eb5a3",
+    "size": 101724787,
+    "url": "https://gitee.com/whr3443kklld/haavk-photos---haavk-photo/releases/download/v1.7.5/haavik_ai.pack",
+    "urls": [
+      "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.7.5/haavik_ai.pack",
+      "https://gitee.com/whr3443kklld/haavk-photos---haavk-photo/releases/download/v1.7.5/haavik_ai.pack",
+      "https://ghfast.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.7.5/haavik_ai.pack"
+    ],
+    "version": "1.2.0"
+  },
+  "notes": "",
+  "sha256": "ca27b446492ba1d7e7564922d62cf4b7dae4dcfa52b9a085b2ebe5f66d71a321",
+  "size": 69117424,
+  "url": "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.7.10/Setup.exe",
+  "urls": [
+    "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.7.10/Setup.exe",
+    "https://ghfast.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.7.10/Setup.exe"
+  ],
+  "version": "1.7.10"
 }
