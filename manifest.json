@@ -5,21 +5,27 @@
     "size": 101724787,
     "url": "https://gitee.com/whr3443kklld/haavk-photos---haavk-photo/releases/download/v1.7.5/haavik_ai.pack",
     "urls": [
+      "https://gh-proxy.com/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.7.5/haavik_ai.pack",
+      "https://gh.xxooo.cf/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.7.5/haavik_ai.pack",
       "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.7.5/haavik_ai.pack",
       "https://gitee.com/whr3443kklld/haavk-photos---haavk-photo/releases/download/v1.7.5/haavik_ai.pack",
       "https://ghfast.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.7.5/haavik_ai.pack",
-      "https://gh.xxooo.cf/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.7.5/haavik_ai.pack"
+      "https://gh.xmly.dev/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.7.5/haavik_ai.pack",
+      "https://gh.ddlc.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.7.5/haavik_ai.pack"
     ],
     "version": "1.2.0"
   },
   "notes": "",
-  "sha256": "e3507da19712161e16f187cab7ed29d3e753045c073d405e26ecea501792dd5e",
-  "size": 69117288,
-  "url": "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.0/Setup.exe",
+  "sha256": "ce6fac9b9caf0977ac0945bbdd3a0e346993127f88ef82197cadf65116729adc",
+  "size": 69117328,
+  "url": "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.1/Setup.exe",
   "urls": [
-    "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.0/Setup.exe",
-    "https://ghfast.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.0/Setup.exe",
-    "https://gh.xxooo.cf/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.0/Setup.exe"
+    "https://gh-proxy.com/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.1/Setup.exe",
+    "https://gh.xxooo.cf/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.1/Setup.exe",
+    "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.1/Setup.exe",
+    "https://ghfast.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.1/Setup.exe",
+    "https://gh.xmly.dev/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.1/Setup.exe",
+    "https://gh.ddlc.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.1/Setup.exe"
   ],
-  "version": "1.8.0"
+  "version": "1.8.1"
 }
