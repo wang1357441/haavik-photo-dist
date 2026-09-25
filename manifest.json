@@ -3,28 +3,28 @@
     "min_os": "win10",
     "sha256": "d776a019d3753330e538259bf4cf5319ab6e7f5036525d456aa542e601f139c3",
     "size": 67531027,
-    "url": "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.2/haavik_ai.pack",
+    "url": "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/haavik_ai.pack",
     "urls": [
-      "https://gh-proxy.com/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.2/haavik_ai.pack",
-      "https://gh.xxooo.cf/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.2/haavik_ai.pack",
-      "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.2/haavik_ai.pack",
-      "https://ghfast.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.2/haavik_ai.pack",
-      "https://gh.xmly.dev/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.2/haavik_ai.pack",
-      "https://gh.ddlc.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.2/haavik_ai.pack"
+      "https://gh-proxy.com/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/haavik_ai.pack",
+      "https://gh.xxooo.cf/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/haavik_ai.pack",
+      "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/haavik_ai.pack",
+      "https://ghfast.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/haavik_ai.pack",
+      "https://gh.xmly.dev/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/haavik_ai.pack",
+      "https://gh.ddlc.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/haavik_ai.pack"
     ],
     "version": "1.3.0"
   },
-  "notes": "1.8.2：AI 超分换成新模型，「一句话改图」听得懂的更多了",
-  "sha256": "6d5b89bc9b0afa3b8f4cdd7a9af223edae3b61d36de331afe7d4725d43c1b0c2",
-  "size": 69128032,
-  "url": "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.2/Setup.exe",
+  "notes": "1.8.3：检查更新快了 12 倍",
+  "sha256": "44002009417935cc7c90ae76dff75b0b2a4c17687fade71f41e0d6463b6f6226",
+  "size": 69133216,
+  "url": "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/Setup.exe",
   "urls": [
-    "https://gh-proxy.com/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.2/Setup.exe",
-    "https://gh.xxooo.cf/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.2/Setup.exe",
-    "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.2/Setup.exe",
-    "https://ghfast.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.2/Setup.exe",
-    "https://gh.xmly.dev/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.2/Setup.exe",
-    "https://gh.ddlc.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.2/Setup.exe"
+    "https://gh-proxy.com/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/Setup.exe",
+    "https://gh.xxooo.cf/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/Setup.exe",
+    "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/Setup.exe",
+    "https://ghfast.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/Setup.exe",
+    "https://gh.xmly.dev/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/Setup.exe",
+    "https://gh.ddlc.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/Setup.exe"
   ],
-  "version": "1.8.2"
+  "version": "1.8.3"
 }
