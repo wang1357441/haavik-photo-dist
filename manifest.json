@@ -1,8 +1,8 @@
 {
   "ai": {
     "min_os": "win10",
-    "sha256": "d776a019d3753330e538259bf4cf5319ab6e7f5036525d456aa542e601f139c3",
-    "size": 67531027,
+    "sha256": "e1dc7901c5921df616bbfbba6229591891f15bde314aa0ec5ab5a610c81199b4",
+    "size": 92076310,
     "url": "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/haavik_ai.pack",
     "urls": [
       "https://gh-proxy.com/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/haavik_ai.pack",
@@ -12,9 +12,9 @@
       "https://gh.xmly.dev/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/haavik_ai.pack",
       "https://gh.ddlc.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/haavik_ai.pack"
     ],
-    "version": "1.3.0"
+    "version": "1.4.0"
   },
-  "notes": "1.8.3：检查更新快了 12 倍",
+  "notes": "AI 模型组件 1.4.0",
   "sha256": "44002009417935cc7c90ae76dff75b0b2a4c17687fade71f41e0d6463b6f6226",
   "size": 69133216,
   "url": "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/Setup.exe",
