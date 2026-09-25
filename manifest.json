@@ -14,17 +14,17 @@
     ],
     "version": "1.4.0"
   },
-  "notes": "AI 模型组件 1.4.0",
-  "sha256": "44002009417935cc7c90ae76dff75b0b2a4c17687fade71f41e0d6463b6f6226",
-  "size": 69133216,
-  "url": "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/Setup.exe",
+  "notes": "HAAVIK Photo 1.8.4",
+  "sha256": "ce289af34b7c11c846f3291394ece271abd953dd816eec281f25e780727ac4cb",
+  "size": 69153336,
+  "url": "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.4/Setup.exe",
   "urls": [
-    "https://gh-proxy.com/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/Setup.exe",
-    "https://gh.xxooo.cf/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/Setup.exe",
-    "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/Setup.exe",
-    "https://ghfast.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/Setup.exe",
-    "https://gh.xmly.dev/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/Setup.exe",
-    "https://gh.ddlc.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.3/Setup.exe"
+    "https://gh-proxy.com/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.4/Setup.exe",
+    "https://gh.xxooo.cf/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.4/Setup.exe",
+    "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.4/Setup.exe",
+    "https://ghfast.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.4/Setup.exe",
+    "https://gh.xmly.dev/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.4/Setup.exe",
+    "https://gh.ddlc.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.4/Setup.exe"
   ],
-  "version": "1.8.3"
+  "version": "1.8.4"
 }
