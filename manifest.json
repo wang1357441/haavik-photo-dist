@@ -14,17 +14,17 @@
     ],
     "version": "1.4.0"
   },
-  "notes": "",
-  "sha256": "53969dccbee8ba36de9328a1bf3f0c3d64b49881a4b4c153a34125a499e8af30",
-  "size": 69171088,
-  "url": "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.8/Setup.exe",
+  "notes": "1.8.9：人脸修复与智能增强改为纯本地算法（无需下载 AI 模型组件即可使用）；其余 AI 能力不变。",
+  "sha256": "64a0f6fa3b0bc7e52067b51c74b647f235033402817ef45f7db9f5cbcbd39b75",
+  "size": 69173456,
+  "url": "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.9/Setup.exe",
   "urls": [
-    "https://gh-proxy.com/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.8/Setup.exe",
-    "https://gh.xxooo.cf/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.8/Setup.exe",
-    "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.8/Setup.exe",
-    "https://ghfast.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.8/Setup.exe",
-    "https://gh.xmly.dev/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.8/Setup.exe",
-    "https://gh.ddlc.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.8/Setup.exe"
+    "https://gh-proxy.com/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.9/Setup.exe",
+    "https://gh.xxooo.cf/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.9/Setup.exe",
+    "https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.9/Setup.exe",
+    "https://ghfast.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.9/Setup.exe",
+    "https://gh.xmly.dev/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.9/Setup.exe",
+    "https://gh.ddlc.top/https://github.com/wang1357441/haavik-photo-dist/releases/download/v1.8.9/Setup.exe"
   ],
-  "version": "1.8.8"
+  "version": "1.8.9"
 }
