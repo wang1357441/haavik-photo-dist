@@ -1,0 +1,58 @@
+# ---- 构建产物（不入库）----
+dist/
+build/
+build_work/
+build_main/
+build_x86/
+build_setup/
+build_setup_x86/
+build_setup_x862/
+build_setup_x863/
+*.spec
+
+# ---- 载荷容器与中间资源（体积大、可重新生成）----
+# 由 code_review/optimized/make_bundle.py 生成，几十 MB，绝不入库。
+payload.zip
+.assets_raw/
+
+# ---- AI 模型权重（随 AI 组件包分发，运行时下载/解包到这里，绝不入库）----
+# optimized/models/ 是 ai_ops.models_dir() 的落地目录，体积上 G、可重新生成。
+code_review/optimized/models/
+haavik_ai.pack
+
+# ---- 清理时的旧架构留存（本地备份，几十 MB）----
+archive/
+
+# ---- WorkBuddy 工具状态目录（含本机路径与工作日志，不入库）----
+.workbuddy/
+
+# ---- 验收脚本的临时输出 ----
+_audit.txt
+_e2e.txt
+_layout.txt
+_deploy.txt
+_update.txt
+_probe*.txt
+_build*.log
+_build_run*.log
+_sz.txt
+_gh.txt
+_state.txt
+_verify_ui*.png
+_cleanup_log*.txt
+# 上面是逐个列出的名字；下面这条兜底，防止下次又冒出一个新的临时文件被误提交
+_*.txt
+_*.log
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ---- 发信凭据（**绝不入库**）----
+# code_review/feedback_smtp.txt  ：你自己填的邮箱地址 / 授权码 / 收件地址
+# optimized/_smtp_secret.py      ：由上面那个文件生成的模块，构建时会被打进 exe
+# 这两样都不能进仓库（进了就等于把授权码贴到公开仓库上）。
+code_review/feedback_smtp.txt
+code_review/optimized/_smtp_secret.py
